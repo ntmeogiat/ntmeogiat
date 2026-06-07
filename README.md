@@ -1,16 +1,11 @@
-## Hi there 👋
+## Chào mừng mọi người tới với "hệ sinh thái" Nhà trẻ Mèo Giặt - Nơi các Daoni-kun và Meowcon giao lưu, tương tác với Vtuber bọn tớ và tham gia các sự kiện mà bọn mình sẽ tổ chức.
+### Chúc minla có những giây phút vui vẻ và được hoà mình vào trong cộng đồng nhỏ của bọn tớ nhé.
+### Thông tin:
+- **Luật:** https://ntmeogiat.com/luat-le 
+- **Du và K:** https://ntmeogiat.com/about/duchama & https://ntmeogiat.com/about/kchan 
+- **Discord:** https://discord.gg/nhatremeogiat
+- **Nhánh MeoGiatMC:** https://mc.ntmeogiat.com/discord
+- **Group FB:** https://www.facebook.com/groups/nhatremeogiat
+- **Website:** https://ntmeogiat.com/
 
-<!--
-**ntmeogiat/ntmeogiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ngoài ra, chúng mình KHÔNG quản lý bất kì box chat tự lập hay nhóm, trang bên ngoài nào khác. Mọi vấn đề tại đó không thuộc thẩm quyền của bên mình.
